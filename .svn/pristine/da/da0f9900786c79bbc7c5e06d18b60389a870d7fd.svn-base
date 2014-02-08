@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TellerMachine", "TellerMachine\TellerMachine.csproj", "{2A9C16E6-9A47-4B11-A8A9-15FD8899E612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection", "Connection\Connection.csproj", "{7EFB3649-962E-4EDB-B6C7-2501C81E0AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TellerMachineAdmin", "TellerMachineAdmin\TellerMachineAdmin.csproj", "{A9AA62B5-2CAB-4413-934A-E0C809FC9E6F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ATM", "ATM\ATM.vdproj", "{CA4AD733-36DA-494D-870D-FC8D1D778A97}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs04
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ATM\\ATM.vdproj
+		SccProjectName1 = ATM
+		SccLocalPath1 = ATM
+		SccProjectUniqueName2 = Connection\\Connection.csproj
+		SccProjectName2 = Connection
+		SccLocalPath2 = Connection
+		SccProjectUniqueName3 = TellerMachine\\TellerMachine.csproj
+		SccProjectName3 = TellerMachine
+		SccLocalPath3 = TellerMachine
+		SccProjectUniqueName4 = TellerMachineAdmin\\TellerMachineAdmin.csproj
+		SccProjectName4 = TellerMachineAdmin
+		SccLocalPath4 = TellerMachineAdmin
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9C16E6-9A47-4B11-A8A9-15FD8899E612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9C16E6-9A47-4B11-A8A9-15FD8899E612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9C16E6-9A47-4B11-A8A9-15FD8899E612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9C16E6-9A47-4B11-A8A9-15FD8899E612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFB3649-962E-4EDB-B6C7-2501C81E0AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFB3649-962E-4EDB-B6C7-2501C81E0AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFB3649-962E-4EDB-B6C7-2501C81E0AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFB3649-962E-4EDB-B6C7-2501C81E0AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AA62B5-2CAB-4413-934A-E0C809FC9E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AA62B5-2CAB-4413-934A-E0C809FC9E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AA62B5-2CAB-4413-934A-E0C809FC9E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AA62B5-2CAB-4413-934A-E0C809FC9E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4AD733-36DA-494D-870D-FC8D1D778A97}.Debug|Any CPU.ActiveCfg = Debug
+		{CA4AD733-36DA-494D-870D-FC8D1D778A97}.Debug|Any CPU.Build.0 = Debug
+		{CA4AD733-36DA-494D-870D-FC8D1D778A97}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
